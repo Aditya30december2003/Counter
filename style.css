@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    text-align: center;
+    min-height: 60vh;
+   padding-top: 190px;
+}
+
+.head{
+    border-radius: 10px;
+    color: white;
+    padding-top: 2px;
+    text-align: center;
+    border: 2px solid black;
+    height:50px ;
+    background-color: rgb(2, 2, 53);
+    width: 500px;
+    margin-left: 32%;
+}
+
+button{
+    border: 2px solid black;
+    background-color: transparent;
+    margin-top: 20px;
+    height: 50px;
+    width: 200px;
+}
